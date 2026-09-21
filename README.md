@@ -2,6 +2,11 @@
 
 ## Catálogo dos projetos trabalhados na disciplina de PDSI - ano 2026
 
+### Site NUARTE-SPP
+- Equipe: [Sabrina Silva](https://github.com/SabrinaSilva-16) e [Sônia Isis](https://github.com/Sunny-Creature)
+- Descrição: Site dedicado ao Núcleo de Artes do Potengi do Instituto Federal do Rio Grande do Norte <i>Campus</i> São Paulo do Potengi (IFRN-SPP), permitindo o público interno e externo de conhecer e acompanhar informações do núcleo.
+- Github: https://github.com/Sunny-Creature/Site-NUARTE-SPP
+
 ### SOS Animais de Riachuelo
 - Equipe: [Otton Pierre](https://github.com/OttonPierre), [Gustavo Lunnyê](https://github.com/Gusta567u) e [João Pedro](https://github.com/oi-jotape)
 - Descrição: O SOS Animais de Riachuelo é um site criado para apoiar e organizar a comunidade local envolvida no resgate e cuidado de animais em situação de abandono ou vulnerabilidade. A plataforma tem como objetivo facilitar a comunicação entre voluntários, divulgar animais que precisam de ajuda, registrar resgates e promover a colaboração da população. Dessa forma, o site busca tornar o trabalho de proteção animal mais organizado, eficiente e acessível para toda a comunidade de Riachuelo.
