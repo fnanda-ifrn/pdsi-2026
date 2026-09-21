@@ -2,6 +2,11 @@
 
 ## Catálogo dos projetos trabalhados na disciplina de PDSI - ano 2026
 
+### Rumix
+- Equipe: [Gabriel Sinedino de Oliveira](https://github.com/GSO-GPU), [João Paulo Araujo Lima da Silva](https://github.com/dvjpa)
+- Descrição: Administração e gestão de animais e fazenda,promover a inclusão digital no setor rural, aproximando os pequenos agricultores das inovações tecnológicas e oferecendo uma solução simples e prática para comunicação, gestão e comércio.
+- GitHub: https://github.com/dvjpa/Rumix
+
 ### SOS Animais de Riachuelo
 - Equipe: [Otton Pierre](https://github.com/OttonPierre), [Gustavo Lunnyê](https://github.com/Gusta567u) e [João Pedro](https://github.com/oi-jotape)
 - Descrição: O SOS Animais de Riachuelo é um site criado para apoiar e organizar a comunidade local envolvida no resgate e cuidado de animais em situação de abandono ou vulnerabilidade. A plataforma tem como objetivo facilitar a comunicação entre voluntários, divulgar animais que precisam de ajuda, registrar resgates e promover a colaboração da população. Dessa forma, o site busca tornar o trabalho de proteção animal mais organizado, eficiente e acessível para toda a comunidade de Riachuelo.
