@@ -7,9 +7,11 @@
 - Descrição: O SOS Animais de Riachuelo é um site criado para apoiar e organizar a comunidade local envolvida no resgate e cuidado de animais em situação de abandono ou vulnerabilidade. A plataforma tem como objetivo facilitar a comunicação entre voluntários, divulgar animais que precisam de ajuda, registrar resgates e promover a colaboração da população. Dessa forma, o site busca tornar o trabalho de proteção animal mais organizado, eficiente e acessível para toda a comunidade de Riachuelo.
 - Github: https://github.com/OttonPierre/ProjetoRiachuelo
 
-### Project: <a>https://github.com/users/devigMurilo/projects/2</a>
-- Team: [Igor Murilo](https://github.com/devigMurilo), [Ellison](https://github.com/ellisonpanda),[Wallison](https://github.com/WallisonAndre),
+### BE-Desk
+- Equipe: [Igor Murilo](https://github.com/devigMurilo), [Ellison](https://github.com/ellisonpanda) e [Wallison](https://github.com/WallisonAndre)
+- Descrição: O BE-Desk é um sistema web de reserva de espaços e organização de eventos do Bloco E do IFRN. A plataforma digitaliza o uso da quadra, do ginásio e das salas, com grade de horários por sala e por semana, pedidos de reserva aprovados pela administração, eventos com inscrição e limite de vagas, notificações e login pela conta institucional do SUAP, substituindo os antigos registros manuais.
 - Github: https://github.com/WallisonAndre/BE-Desk
+- Project: https://github.com/users/WallisonAndre/projects/2
 ### IntelIF
 - Equipe: [Lucas Thierry](https://github.com/lucasthierry9) [Matheus Fabricio](https://github.com/MatheusFabSouza)
 - Descrição: IntelIF é um sistema acadêmico criado para ajudar estudantes do IFRN em suas dependências educacionais, com opção de login no SUAP e suporte a Google Classroom para melhor comunicação entre alunos e plataformas, alem de diversas funcionalidades com cunho educaional.
