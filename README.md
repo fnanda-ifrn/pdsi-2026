@@ -33,4 +33,5 @@
 ### Barber Grid
 - Descrição: Aplicação web acadêmica desenvolvida com Django para consulta de serviços de uma barbearia.
 - Autor: [Álvaro Yuri](https://github.com/alvarogit-ops)
+- Github: https://github.com/alvarogit-ops/sistema-de-barbearia
 
